@@ -1,5 +1,5 @@
 
-interface InfoPagina {
+export interface InfoPagina {
   titulo?: string;
   email?: string;
   nombre?: string;
